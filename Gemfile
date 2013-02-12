@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 source 'http://gems.rubyforge.org'
 
-gem 'rails', '3.0.9'
+gem 'rails', '3.0.20'
 gem 'devise'
 gem 'acts-as-taggable-on'
 gem "inherited_resources"
